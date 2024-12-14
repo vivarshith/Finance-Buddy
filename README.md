@@ -47,9 +47,30 @@ Student Finance Tracker is a simple, user-friendly tool designed to help student
 
 ## Usage
 
-1. Describe how to use your website, e.g., "Navigate to the home page, log in, and explore various features like [feature examples]."
-2. Provide any credentials if applicable for testing (e.g., demo accounts).
+Navigate to the Website:
 
+Visit the Student Finance Tracker homepage at your-website-url.com.
+On the home page, you can explore various features like expense tracking, budgeting, and savings goal setting.
+Log In or Sign Up:
+
+If you're a new user, click on the Sign Up button to create a new account.
+If you're a returning user, click Log In and enter your credentials.
+Explore Features:
+
+Once logged in, you can access the following features:
+Track Expenses: Add daily expenses and categorize them.
+Set Budgets: Create and manage monthly or weekly budgets.
+Savings Goals: Set goals for things like tuition, textbooks, or travel and track your progress.
+Collaborative Features: Share financial goals with roommates or friends and collaborate on joint budgets.
+Demo Accounts (Optional for Testing):
+
+For testing purposes, you can use the following demo account credentials:
+Username: demoStudent
+Password: demo1234
+This account provides access to all features with sample data.
+Contribute:
+
+If you'd like to suggest improvements or contribute, feel free to submit a pull request on the GitHub repository.
 ---
 
 ## Screenshots
