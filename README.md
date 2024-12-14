@@ -66,9 +66,9 @@ Student Finance Tracker is a simple, user-friendly tool designed to help student
 
 We thank the following people for their contributions to this project:
 
-- **[Name 1]** - [GitHub Profile](https://github.com/name1)
-- **[Name 2]** - [GitHub Profile](https://github.com/name2)
-- **[Name 3]** - [GitHub Profile](https://github.com/name3)
+- **[PUJARI BALABHADRA KUMAR]** - [GitHub Profile](https://github.com/name1)
+- **[NIKITHA]** - [GitHub Profile](https://github.com/name2)
+- **[RAMYA SRI]** - [GitHub Profile](https://github.com/name3)
 
 Feel free to add your name if you contribute to this project during the Build-A-Site hackathon!
 
