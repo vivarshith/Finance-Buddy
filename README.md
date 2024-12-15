@@ -28,8 +28,8 @@ Student Finance Tracker is a simple, user-friendly tool designed to help student
 
 ## Technologies Used
 
-- **Frontend**: [HTML, CSS, JavaScript, React, Vue.js, Angular, or other frameworks]
-- **Backend**: [Node.js, Django, Flask, Ruby on Rails, ASP.NET, or others]
+- **Frontend**: HTML , CSS
+- **Backend**: JAVA SCRIPT
 - **Database**: [MongoDB, MySQL, PostgreSQL, Firebase, or others]
 - **Styling**: [Tailwind CSS, Bootstrap, SCSS, Material UI, or others]
 - **APIs**: [REST, GraphQL, or custom APIs]
