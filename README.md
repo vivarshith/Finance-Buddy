@@ -1,5 +1,3 @@
-![Build-A-Site](https://i.imgur.com/nZPQ9If.png)
-
 # Student-Finance-tracker (Devlovers)
 
 Student Finance Tracker is a simple, user-friendly tool designed to help students manage their finances. With features like budgeting, expense tracking, and savings goal setting, it helps students stay on top of their finances, plan effectively, and develop smart money habits for financial independence.
