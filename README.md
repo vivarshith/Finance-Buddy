@@ -87,8 +87,8 @@ If you'd like to suggest improvements or contribute, feel free to submit a pull 
 
 We thank the following people for their contributions to this project:
 
-- **[PUJARI BALABHADRA KUMAR]** - [GitHub Profile](https://github.com/name1)
-- **[NIKITHA]** - [GitHub Profile](https://github.com/name2)
+- **[PUJARI BALABHADRA KUMAR]** - https://github.com/PBalabhadrakumar
+- **[NIKITHA]** - http://GitHub.com/nikithad425
 - **[RAMYA SRI]** - [GitHub Profile](https://github.com/name3)
 
 Feel free to add your name if you contribute to this project during the Build-A-Site hackathon!
