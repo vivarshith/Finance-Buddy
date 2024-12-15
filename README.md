@@ -89,7 +89,7 @@ We thank the following people for their contributions to this project:
 
 - **[PUJARI BALABHADRA KUMAR]** - https://github.com/PBalabhadrakumar
 - **[NIKITHA]** - http://GitHub.com/nikithad425
-- **[RAMYA SRI]** - [GitHub Profile](https://github.com/name3)
+- **[RAMYA SRI]** - https://github.com/RamyasriMenni
 
 Feel free to add your name if you contribute to this project during the Build-A-Site hackathon!
 
