@@ -102,4 +102,4 @@ For any inquiries or feedback, reach out to:
 - *SRI SAI VIVARSHITH*
 - *Email*: vivarshithedu@gmail.com
 - *GitHub*:https://github.com/vivarshith
-- *Website*: [your-website.com](https://your-website.com)
+- *Website*: https://vivarshith.github.io/Finance-Buddy/
